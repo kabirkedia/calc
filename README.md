@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 
 THIS IS MY FIRST PROJECT :)))
+
